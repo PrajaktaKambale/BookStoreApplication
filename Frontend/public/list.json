@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Story book for free",
+    "price": 0.0,
+    "Category": "Free",
+    "image": "https://img.freepik.com/premium-photo/stack-books-with-green-background_1089043-48498.jpg?uid=R158737182&ga=GA1.1.1134046413.1708607351&semt=ais_hybrid"
+  },
+  {
+    "id": 2,
+    "name": "Music Book",
+    "title": "Music book for free",
+    "price": 0.0,
+    "Category": "Music",
+    "image": "https://img.freepik.com/premium-photo/stack-books-with-green-background_1089043-48498.jpg?uid=R158737182&ga=GA1.1.1134046413.1708607351&semt=ais_hybrid"
+  },
+  {
+    "id": 3,
+    "name": "Story Book",
+    "title": "Story book for free",
+    "price": 0.0,
+    "Category": "Free",
+    "image": "https://img.freepik.com/premium-photo/stack-books-with-green-background_1089043-48498.jpg?uid=R158737182&ga=GA1.1.1134046413.1708607351&semt=ais_hybrid"
+  },
+  {
+    "id": 4,
+    "name": "Sports Book",
+    "title": "Story book for free",
+    "price": 400.0,
+    "Category": "Free",
+    "image": "https://img.freepik.com/premium-photo/stack-books-with-green-background_1089043-48498.jpg?uid=R158737182&ga=GA1.1.1134046413.1708607351&semt=ais_hybrid"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "Story book for free",
+    "price": 50.0,
+    "Category": "Free",
+    "image": "https://img.freepik.com/premium-photo/stack-books-with-green-background_1089043-48498.jpg?uid=R158737182&ga=GA1.1.1134046413.1708607351&semt=ais_hybrid"
+  }
+]
